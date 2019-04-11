@@ -1,6 +1,10 @@
 [目前处于可用状态，404现象得到完善...希望熟悉英语的朋友能帮忙修改一下我这中英文混写的项目]
 
 # 本板块提供劳动仲裁和劳动诉讼的攻略
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
+
 本攻略的出现意图很简单———一定要有；劳动仲裁和劳动诉讼时劳动者维护自身权益的最后救济手段，发起之后代表着你将很难继续在原来的公司工作，故不鸣则已，一鸣惊人。本攻略面向所有劳动者，但本版块不希望任何一个劳动者失去工作，用打扑克做比喻的话，请把它当作王炸。
 除此之外，**本模块将重点介绍取证这一块，希望大家平时工作中就留意取证。**
 
