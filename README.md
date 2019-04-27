@@ -1,6 +1,9 @@
 # 劳动仲裁和劳动诉讼的攻略
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
+劳动仲裁和劳动诉讼时劳动者维护自身权益的最后救济手段，发起之后代表着你将很难继续在原来的公司工作，故不鸣则已，一鸣惊人。本攻略面向所有劳动者，但本版块不希望任何一个劳动者失去工作，用打扑克做比喻的话，请把它当作王炸。 除此之外，本模块将重点介绍取证这一块，希望大家平时工作中就留意取证。
+
+如果你想在不丢失工作的情况下做一些法律行动，996.action欢迎你。为降低门槛，如果不会操作GitHub，欢迎邮件至CPdogson@protonmail.com
 ## 目录
 [**一、如何通过司法途径要求公司支付加班费？**](README.md#%E4%B8%80%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%8F%B8%E6%B3%95%E9%80%94%E5%BE%84%E8%A6%81%E6%B1%82%E5%85%AC%E5%8F%B8%E6%94%AF%E4%BB%98%E5%8A%A0%E7%8F%AD%E8%B4%B9)
 
