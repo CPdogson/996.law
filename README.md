@@ -1,5 +1,5 @@
 > 最新进展
-- 添加了人民法院报道的[小孙的案例](Case/Mr_Sun.md)
+- 添加了人民法院报[小孙的案例](Case/Mr_Sun.md)
 
 # 劳动仲裁和劳动诉讼的攻略
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
