@@ -5,7 +5,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.io/CPdogson/996law.svg)](http://hits.dwyl.io/CPdogson/996law)
+[![HitCount](http://hits.dwyl.io/CPdogson/996.law.svg)](http://hits.dwyl.io/CPdogson/996.law)
 
 > 劳动仲裁和劳动诉讼是劳动者维护自身权益的最后救济手段，发起之后代表着你将很难继续在原来的公司工作，故不鸣则已，一鸣惊人。本攻略面向所有劳动者，但本版块不希望任何一个劳动者失去工作，用打扑克做比喻的话，请把它当作王炸。 除此之外，本模块将重点介绍取证这一块，希望大家平时工作中就**留意取证**。如果你想在不丢失工作的情况下做一些法律行动，[996action](https://github.com/CPdogson/996action)欢迎你。为降低门槛，如果不会操作GitHub，欢迎邮件至CPdogson@protonmail.com
 ## 目录
